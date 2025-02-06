@@ -2,7 +2,7 @@ module github.com/gogolok/go-cfclient-issue-rg0
 
 go 1.23.5
 
-require github.com/cloudfoundry/go-cfclient/v3 v3.0.0-alpha.9
+require github.com/cloudfoundry/go-cfclient/v3 v3.0.0-alpha.9.0.20250205163940-92b0d98fe977
 
 require (
 	github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 // indirect
@@ -15,7 +15,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.13.1 // indirect
 	github.com/stretchr/testify v1.10.0 // indirect
-	golang.org/x/oauth2 v0.25.0 // indirect
+	golang.org/x/oauth2 v0.26.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

@@ -1,4 +1,4 @@
-# github.com/cloudfoundry/go-cfclient/v3 v3.0.0-alpha.9
+# github.com/cloudfoundry/go-cfclient/v3 v3.0.0-alpha.9.0.20250205163940-92b0d98fe977
 ## explicit; go 1.19
 github.com/cloudfoundry/go-cfclient/v3/client
 github.com/cloudfoundry/go-cfclient/v3/config
@@ -38,7 +38,7 @@ github.com/pmezard/go-difflib/difflib
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/assert/yaml
 github.com/stretchr/testify/require
-# golang.org/x/oauth2 v0.25.0
+# golang.org/x/oauth2 v0.26.0
 ## explicit; go 1.18
 golang.org/x/oauth2
 golang.org/x/oauth2/clientcredentials
